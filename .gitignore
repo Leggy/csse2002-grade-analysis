@@ -1,0 +1,5 @@
+
+directory.py
+*.png
+
+__pycache__
