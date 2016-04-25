@@ -6,3 +6,6 @@ This is a simple tool which parses, validates and prepares analysis of CSSE2002 
 
 ###Execution Instructions
 Edit the `DIR` variable in `directory.py` to your marked folder, and execute `assignment_script.py`.
+
+###Dependencies
+Requires [Python 3.5](https://www.python.org/) and [matplotlib](http://matplotlib.org/) (and its dependencies).
